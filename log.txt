@@ -1,0 +1,5 @@
+1|2023-05-30 16:34:53|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-05-31 19:19:17|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-06-04 21:40:34|rara@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-06-04 21:40:46|edgar@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
+1|2023-06-04 21:41:22|jesus@gmail.com|::1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36|Windows 10|Login Exitoso
